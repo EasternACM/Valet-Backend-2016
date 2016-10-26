@@ -1,11 +1,11 @@
-#Valet-Backend-2016
+#Team Valet-Backend-2016 
 
 #Installing Golang
 
 
 #Getting Started
- * Clone the repo by opening your mngw bash command line, and using 'git clone https://github.com/EasternACM/Valet-Backend-2016.git' where you would like the project
- * 
+ * Clone the repo by opening your mngw bash command line, and using **git clone https://github.com/EasternACM/Valet-Backend-2016.git** where you would like the project
+ 
  
  
 #Hosting Server
